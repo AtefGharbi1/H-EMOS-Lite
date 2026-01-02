@@ -10,4 +10,4 @@ released to ensure full reproducibility.
 
 ## Reproducing results
 Run the following command:
-python h_emos_lite_with_baselines.py
+python h_emos_lite_with_baselines_v11.py
